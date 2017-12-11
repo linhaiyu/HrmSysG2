@@ -1,0 +1,36 @@
+2017-12-09 09:57:47.876 INFO  com.hrm.controller.DeptController 28 getDept - getDept...
+2017-12-09 09:57:50.586 INFO  com.hrm.controller.DeptController 28 getDept - getDept...
+2017-12-09 09:57:56.040 INFO  com.hrm.controller.DeptController 28 getDept - getDept...
+2017-12-09 09:58:00.302 INFO  com.hrm.controller.DeptController 28 getDept - getDept...
+2017-12-09 09:58:03.914 INFO  com.hrm.controller.DeptController 50 getDeptById - id = 1
+2017-12-09 09:58:03.934 INFO  com.hrm.controller.DeptController 54 getDeptById - get dept = Dept [id=1, name=产品研发部, remark=产品研发技术部]
+2017-12-09 09:58:12.259 INFO  com.hrm.controller.DeptController 78 deleteDept - id = 13
+2017-12-09 09:58:12.319 INFO  com.hrm.controller.DeptController 28 getDept - getDept...
+2017-12-09 09:58:46.492 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门B, remark=部门B]
+2017-12-09 09:58:53.297 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门C, remark=部门C]
+2017-12-09 09:58:59.010 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门D, remark=部门D]
+2017-12-09 09:59:03.803 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门E, remark=部门E]
+2017-12-09 09:59:08.600 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门F, remark=部门F]
+2017-12-09 09:59:15.203 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门G, remark=部门G]
+2017-12-09 09:59:20.997 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门H, remark=部门H]
+2017-12-09 09:59:25.409 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门I, remark=部门I]
+2017-12-09 09:59:30.612 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门J, remark=部门J]
+2017-12-09 09:59:37.286 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门K, remark=部门K]
+2017-12-09 09:59:55.552 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门L, remark=部门L]
+2017-12-09 10:00:03.726 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门M, remark=部门M]
+2017-12-09 10:00:09.988 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门N, remark=部门N]
+2017-12-09 10:00:10.857 INFO  com.hrm.controller.DeptController 28 getDept - getDept...
+2017-12-09 10:00:29.776 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门O, remark=部门O]
+2017-12-09 10:00:34.919 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门P, remark=部门P]
+2017-12-09 10:00:45.425 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门Q, remark=部门Q]
+2017-12-09 10:00:55.884 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门R, remark=部门R]
+2017-12-09 10:01:10.832 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门S, remark=部门S]
+2017-12-09 10:01:20.238 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门T, remark=部门T]
+2017-12-09 10:01:26.822 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门U, remark=部门U]
+2017-12-09 10:01:31.716 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门V, remark=部门V]
+2017-12-09 10:01:38.490 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门W, remark=部门W]
+2017-12-09 10:01:44.103 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门X, remark=部门X]
+2017-12-09 10:01:50.777 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门Y, remark=部门Y]
+2017-12-09 10:01:56.050 INFO  com.hrm.controller.DeptController 65 addDept - new dept=Dept [id=null, name=部门Z, remark=部门Z]
+2017-12-09 10:01:56.981 INFO  com.hrm.controller.DeptController 28 getDept - getDept...
+2017-12-09 10:02:10.608 INFO  com.hrm.controller.DeptController 28 getDept - getDept...
