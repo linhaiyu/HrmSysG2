@@ -1,12 +1,12 @@
 # HrmSysG2
 
-#前后端分离开发示例
-##前端
+# 前后端分离开发示例
+## 前端
 前端使用Vue.js + Element + vue-router + axios 开发
 * 使用Visual Studio Code作为IDE
 * 使用vue-cli脚手架搭建 webpack 打包工程
 
-##后端
+## 后端
 SSM（Spring+SpringMVC+MyBatis）开发
 * 使用IntelliJ IDEA作为开发工具
 * Maven作为工程管理
@@ -14,7 +14,7 @@ SSM（Spring+SpringMVC+MyBatis）开发
 * RESTful接口进行前后端交互
 
 # 编译部署
-##前端编译
+## 前端编译
 前端采用vue-cli脚手架创建了工程，webpack打包，使用很简便，
 如果要单独测试前端，可以命令行进入工程目录，执行`npm run dev`
 如果要编译后部署使用，命令行进入工程目录，执行`npm run build`，编译完成后在工程目录下生成一个 **dist** 目录，内含 index.html 文件和static目录，static目录中有生成的 JavaScript文件；
