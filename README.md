@@ -1,14 +1,17 @@
 # HrmSysG2
 
-前后端分离开发示例
+#前后端分离开发示例
+##前端
 前端使用Vue.js + Element + vue-router + axios 开发
 * 使用Visual Studio Code作为IDE
 * 使用vue-cli脚手架搭建 webpack 打包工程
 
-SSM、Spring+SpringMVC+MyBatis开发示例
+##后端
+SSM（Spring+SpringMVC+MyBatis）开发
 * 使用IntelliJ IDEA作为开发工具
 * Maven作为工程管理
 * MySQL作为数据库
+* RESTful接口进行前后端交互
 
 # 编译部署
 ##前端编译
